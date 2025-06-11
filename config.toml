@@ -5,6 +5,15 @@ compression-level = 9
 patches-version = "latest" # 'latest', 'dev', or a version number. default: "latest"
 cli-version = "latest"
 
+[YouTube]
+build-mode = "both"
+excluded-patches = ""
+included-patches = ""
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 [YouTube-Extended]
 enabled = false
 app-name = "YouTube"
