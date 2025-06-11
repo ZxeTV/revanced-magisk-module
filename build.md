@@ -1,4 +1,3 @@
-YouTube: 20.23.37  
 YouTube-Extended: 20.23.37  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
