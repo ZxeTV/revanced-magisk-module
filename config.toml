@@ -6,11 +6,11 @@ patches-version = "latest" # 'latest', 'dev', or a version number. default: "lat
 cli-version = "latest"
 
 [YouTube-Extended]
-enabled = true
+enabled = false
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/youtube"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 version = "latest"
