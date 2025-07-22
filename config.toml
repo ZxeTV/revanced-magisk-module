@@ -5,13 +5,32 @@ compression-level = 9
 patches-version = "latest" # 'latest', 'dev', or a version number. default: "latest"
 cli-version = "latest"
 
-[YouTube-Extended]
-enabled = true
-app-name = "YouTube"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+
+[Twitch]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "module"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-version = "latest"
 integrations-source = "anddea/revanced-integrations"
+rv-brand = "anddea ReVanced"
+build-mode = "both"
+version = "21.13.41"
+excluded-patches = "'GmsCore support'"
