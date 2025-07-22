@@ -1,6 +1,6 @@
 {
-  "version": "v20.23.37 (patches 3.9.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/ZxeTV/revanced-magisk-module/releases/download/4/youtube-revanced-extended-magisk-v20.23.37-all.zip",
+  "version": "v19.47.53 (patches 3.10.0)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/ZxeTV/revanced-magisk-module/releases/download/5/youtube-revanced-extended-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/ZxeTV/revanced-magisk-module/update/build.md"
 }
